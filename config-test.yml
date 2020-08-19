@@ -1,0 +1,4 @@
+server: 
+  port: 3344
+config:
+  info: 我是test环境，我怕谁！
